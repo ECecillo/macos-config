@@ -1,3 +1,9 @@
 [submodule "neovim-config"]
 	path = neovim-config
 	url = https://github.com/ECecillo/neovim-config
+[submodule "skhd-config"]
+	path = skhd-config
+	url = git@github.com:ECecillo/skhd-config.git
+[submodule "yabai-config"]
+	path = yabai-config
+	url = git@github.com:ECecillo/yabai-config.git
