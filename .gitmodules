@@ -7,12 +7,12 @@
 [submodule "yabai-config"]
 	path = yabai-config
 	url = git@github.com:ECecillo/yabai-config.git
-[submodule "zsh"]
-	path = zsh
-	url = git@github.com:ECecillo/zsh-config.git
 [submodule "karabiner-config"]
 	path = karabiner-config
 	url = git@github.com:ECecillo/karabiner-config.git
 [submodule "vscode-config"]
 	path = vscode-config
 	url = git@github.com:ECecillo/vscode-config.git
+[submodule "zsh-config"]
+	path = zsh-config
+	url = git@github.com:ECecillo/zsh-config.git
