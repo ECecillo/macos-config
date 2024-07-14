@@ -8,7 +8,8 @@ git clone --recurse-submodules git@github.com:ECecillo/macos-config.git
 
 ## Tools
 
-Karabinner : <https://karabiner-elements.pqrs.org/>
+- Karabiner keyboard shortcut for global system: <https://karabiner-elements.pqrs.org/docs/>
+- Hammerspoon : <https://www.hammerspoon.org/go/>
 
 ## Scripts
 
