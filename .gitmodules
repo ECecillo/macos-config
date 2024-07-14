@@ -7,3 +7,6 @@
 [submodule "yabai-config"]
 	path = yabai-config
 	url = git@github.com:ECecillo/yabai-config.git
+[submodule "zsh"]
+	path = zsh
+	url = git@github.com:ECecillo/zsh-config.git
