@@ -10,3 +10,6 @@
 [submodule "zsh"]
 	path = zsh
 	url = git@github.com:ECecillo/zsh-config.git
+[submodule "karabiner-config"]
+	path = karabiner-config
+	url = git@github.com:ECecillo/karabiner-config.git

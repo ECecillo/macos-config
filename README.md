@@ -6,6 +6,10 @@ To clone this project use the following command so that the submodules are also 
 git clone --recurse-submodules git@github.com:ECecillo/macos-config.git
 ```
 
+## Tools
+
+Karabinner : <https://karabiner-elements.pqrs.org/>
+
 ## Scripts
 
 Each scripts can be run individually from the `scripts` directory if we want to apply only one of the configurations or debug if one of them fail.
