@@ -13,3 +13,6 @@
 [submodule "karabiner-config"]
 	path = karabiner-config
 	url = git@github.com:ECecillo/karabiner-config.git
+[submodule "vscode-config"]
+	path = vscode-config
+	url = git@github.com:ECecillo/vscode-config.git
